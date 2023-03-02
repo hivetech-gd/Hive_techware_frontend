@@ -1,5 +1,4 @@
 import axios from "axios";
-require('dotenv').config()
 
 export const LOGIN_USER_KEY = "HIVE_TECHWEAR_LOGIN_USER_KEY";
 let baseURL;
