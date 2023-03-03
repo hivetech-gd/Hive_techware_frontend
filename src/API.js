@@ -4,7 +4,7 @@ export const LOGIN_USER_KEY = "HIVE_TECHWEAR_LOGIN_USER_KEY";
 let baseURL;
 
 
-baseURL = "http://127.0.0.1:8000/";
+baseURL = "http://hivetechwarebackend.hivetech-gd.repl.co/";
 const api = axios.create({
   baseURL: baseURL,
   headers: {
