@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[Live Deplyoment link]( https://hivetechwarefrontend.hivetech-gd.repl.co/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
